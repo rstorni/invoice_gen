@@ -93,10 +93,10 @@ class PDFInvoiceGenerator:
         elements.append(Spacer(1, 0.25*inch))
 
         sender_info = {
-            "name": "InAndOut Graphics",
-            "email": "Inandoutgraphics@gmail.com",
-            "phone": "786-246-9041",
-            "address": "316 East 92nd St"
+            "name": "Test",
+            "email": "@gmail.com",
+            "phone": "123-456-6789",
+            "address": "Test"
         }
         
         sender_details = [
