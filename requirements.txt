@@ -1,0 +1,20 @@
+# Core dependencies
+reportlab==4.0.7
+# sqlite3  # Built-in, no version needed
+logging
+PyQt6==6.5.1
+PyQt6-Qt6==6.5.1
+PyQt6-sip==13.4.1
+
+# Optional: for more advanced database operations
+sqlalchemy==2.0.15
+
+# Optional: for testing
+pytest==7.3.1
+pytest-mock==3.10.0
+
+# Optional: for type hinting
+typing==3.7.4.3
+
+# Optional: for configuration management
+python-dotenv==1.0.0
